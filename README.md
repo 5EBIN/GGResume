@@ -1,3 +1,44 @@
+AI-Powered Job Matching Platform  
+
+This platform aims to revolutionize recruitment by blending the professionalism of LinkedIn with an AI-driven matchmaking system between job seekers and hiring departments within companies. This platform intelligently connects job seekers with hiring departments within companies, streamlining the recruitment process for both sides, matching companies with the perfect candidates and candidates get hired by a dream company.
+
+    Key Components  
+
+1.   Company Portal:  
+   - Companies can create individual profiles.
+   - Option to post hiring requirements, specifying:
+     - Number of positions available.
+     - Desired skill set and expertise levels.
+   - Companies can set criteria for potential hires based on specific technologies, experience, and soft skills.
+   
+2.   Job Seeker Portal:  
+   - Individuals can sign up, create profiles, and upload relevant documents such as:
+     - Resumes
+     - Project reports
+     - Links to portfolios (e.g., GitHub, personal websites, etc.).
+   - The platform will analyze and scan GitHub repositories, resumes, and projects to:
+     - Generate a comprehensive and unique skill profile.
+     - Provide a rating based on expertise, skills, and technology stack.
+   
+3.   AI-Driven Matching:  
+   -   For Companies:  
+     - When companies post job openings, the AI system scans through the job seeker database to identify the best matches.
+     - Shortlists candidates that align with the company’s requirements (based on skillset, experience, and other parameters).
+     - Provides a pool of n candidates that fit the job openings.
+   -   For Job Seekers:  
+     - The system presents job seekers with a list of companies that are currently hiring or may soon be hiring.
+     - Matches job seekers with companies based on their skill profile and preferences.
+     - Suggests additional skills or qualifications that individuals may need to get hired by their preferred companies.
+
+4.   Unique Features:  
+   -   Personalized Skill Profile:   Automatically generated profiles for individuals, highlighting their top skills, strengths, and areas of expertise based on their uploaded content.
+   -   Real-Time Updates:   Individuals can get notified about the latest job openings that align with their expertise.
+   -   Skill Development Suggestions:   The platform will recommend skills or qualifications needed to increase a candidate's chances of getting hired at their desired companies.
+
+    Overall Benefits  
+-   For Companies:   Streamlined hiring process with AI-backed recommendations, reducing time and effort in candidate screening.
+-   For Job Seekers:   Increased visibility and personalized job opportunities based on skills and aspirations.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
